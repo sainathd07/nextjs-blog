@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <main>
        <h1>Sainath Dushatti</h1>
-       <h3>Welcome to my blog, or whatever!</h3>
+       <h3>a blog, or something similar</h3>
       </main>
     <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
